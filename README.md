@@ -1,9 +1,9 @@
-👋 Hola, soy Francisco Garcia Martinez
+# 👋 Hola, soy Francisco Garcia Martinez
 
-##Acerca de mi 
+## Acerca de mí
 
-🎓 Estudiante avanzado de Ingeniería en Sistemas — UTN FRLP
+- 🎓 Estudiante avanzado de Ingeniería en Sistemas — UTN FRLP
 
-##Conéctate conmigo
+## Conéctate conmigo
 
-📫 garciafran9djul@gmail.com
+- 📫 garciafran9djul@gmail.com
